@@ -118,13 +118,7 @@ print(label_mapping[pred])
 
 ---
 
-## 🔗 Related Projects (Lyra Series)
-
-- [Lyra Immo](https://github.com/Jerome-X1/Lyra_Immo) — real estate valuation model
-- [Lyra Soil](https://github.com/Jerome-X1/Lyra_LowCost_Soil_Leaf) — agronomic diagnosis via soil + leaf indicators
-- [Lyra Leaf Chlorosis](https://github.com/Jerome-X1/Lyra_Leaf_Chlorose) — CNN-based chlorosis detection on ivy
-- [Lyra River Ecology](https://github.com/Jerome-X1/Lyra_River_Ecology) — river IBGN prediction model
 
 ---
 
-🧬 *Designed by Jérôme — autonomous, high-integrity, post-AGI ready IA engineering.*
+🧬 *Designed by Jérôme — post-AGI ready IA engineering.*
