@@ -74,16 +74,16 @@ Input:
 ## 💾 Folder Structure
 
 ```
-Lyra_Transformer_Training/
-├── MODEL_TRANSFORMER/          # Saved model and tokenizer (fine-tuned in Jupyter)
-│   ├── config.json
-│   ├── pytorch_model.bin
-│   ├── tokenizer_config.json
-│   └── ...
-├── MODEL_COLAB.zip             # Optional (model fine-tuned in Google Colab)
-├── notebook_demo.ipynb         # Training + inference notebook (Jupyter)
-├── predict_demo.py             # Simple script for testing the model
-└── README.md                   # You are here
+lyra_transformer/                       
+├── README.md                          # Project overview and instructions
+├── code/                              # Training & inference scripts
+│   ├── transformer_Google_collab.ipynb  # Colab notebook for quick prototyping
+│   ├── transformer_Google_collab.py      # Python script version of the Colab workflow
+│   └── transformer_jupyter_notebook.md   # Jupyter-friendly markdown summary
+└── datasets/                          # Local CSV datasets for fine-tuning
+    ├── train.csv                     # Training set (labeled examples)
+    └── validation.csv                # Validation set (held-out for evaluation)
+
 ```
 
 ---
