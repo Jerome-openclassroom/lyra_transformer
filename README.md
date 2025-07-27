@@ -30,6 +30,8 @@ The classification task involves 4 categories:
 
 ## 🧪 Model
 
+👉 The trained model is not included in this repository due to size constraints
+
 - 🧠 Base: `distilbert-base-uncased`
 - Optimizer: `AdamW` (managed by `Trainer`)
 - Learning rate: `2e-5`
