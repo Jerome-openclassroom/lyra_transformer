@@ -114,7 +114,6 @@ print(label_mapping[pred])
 
 - This project is part of the **Lyra IA training and ecological automation** corpus.
 - Designed for interpretability, reproducibility, and post-AGI agent readiness.
-- The full workflow will be documented and pushed directly from Colab to GitHub.
 
 ---
 
