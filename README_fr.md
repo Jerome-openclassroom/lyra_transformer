@@ -79,7 +79,8 @@ Entrée :
 
 ```
 lyra_transformer/                       
-├── README.md                          # Présentation et instructions du projet
+├── README.md                          # Présentation et instructions du projet - version en anglais
+├── README_fr.md                       # Présentation et instructions du projet - version en français (ce fichier)
 ├── code/                              # Scripts d’entraînement et d’inférence
 │   ├── transformer_Google_collab.ipynb  # Notebook Colab pour prototypage rapide
 │   ├── transformer_Google_collab.py      # Script Python équivalent au workflow Colab
