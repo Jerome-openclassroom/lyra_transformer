@@ -15,7 +15,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
 
 # Chargement d'un dataset pour test rapide
 from huggingface_hub import login
-login("THIS_IS_MY_KEY")  # ta clé API Hugging Face ici
+login("THIS_IS_MY_KEY")  # clé API Hugging Face ici
 
 dataset = load_dataset("ag_news")
 train_data = dataset["train"].shuffle(seed=42).select(range(2000))
