@@ -80,7 +80,6 @@ lyra_transformer/
 ├── README.md                          # Project overview and instructions english version (this file)
 ├── README_fr.md                       # Project overview and instructions french version
 ├── code/                              # Training & inference scripts
-│   ├── transformer_Google_collab.ipynb  # Colab notebook for quick prototyping
 │   ├── transformer_Google_collab.py      # Python script version of the Colab workflow
 │   └── transformer_jupyter_notebook.md   # Jupyter-friendly markdown summary
 └── datasets/                          # Local CSV datasets for fine-tuning
